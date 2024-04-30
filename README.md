@@ -14,8 +14,8 @@
     <img title="Java" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img title="Python" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img title="Postgresql" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img title="HTML" height="40px" style="padding-right:10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img title="CSS" height="40px" style="padding-right:10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img title="HTML" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">
+    <img title="CSS" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg">
   </a>
 
 <h2>Contact</h2>
