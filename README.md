@@ -34,9 +34,9 @@
 <h2 align="center">Contact</h2>
 <div class="contact_me" align="center"> 
   <a href="mailto:caiopadovan1@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35px" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35px">
   </a>
   <a href="https://www.linkedin.com/in/caio-padovan-b28a97262/">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35px" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35px">
   </a>
 </div>
