@@ -27,6 +27,8 @@
   <a href="#">
     <img title="Angular" height="40px" style="padding-right:10px" src="https://angular.io/assets/images/logos/angular/angular.png">
     <img title=".Net" height="40px" style="padding-right:10px" src="https://cdn.iconscout.com/icon/free/png-512/free-dot-net-3521393-2944837.png?f=webp&w=256">
+    <img title="C#" height="40px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png">
+    <img title="TypeScript" height="40px" style="padding-right:10px" src="https://cdn-icons-png.flaticon.com/256/919/919832.png">
   </a>
 
 <h2 align="center">Contact</h2>
