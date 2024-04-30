@@ -16,11 +16,15 @@
     <img title="Postgresql" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img title="HTML" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">
     <img title="CSS" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg">
+    <img title="GoogleCloud" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg">
   </a>
 
 <h2>Contact</h2>
 <div class="contact_me" align="center"> 
+  <a href="mailto:caiopadovan1@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35px" target="_blank">
+  </a>
   <a href="https://www.linkedin.com/in/caio-padovan-b28a97262/">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35px">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35px" target="_blank">
   </a>
 </div>
