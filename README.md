@@ -18,7 +18,7 @@
     <img title="Postgresql" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img title="HTML" height="40px" style="padding-right:10px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/html-2752158-2284975.png?f=webp">
     <img title="CSS" height="40px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png">
-    <img title="GoogleCloud" height="40px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png">
+    <img title="GoogleCloud" height="40px" style="padding-right:10px" src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96">
   </a>
 
   <h2 align= "center">Learning</h2>
@@ -27,7 +27,7 @@
   <a href="#">
     <img title="Angular" height="40px" style="padding-right:10px" src="https://angular.io/assets/images/logos/angular/angular.png">
     <img title=".Net" height="40px" style="padding-right:10px" src="https://cdn.iconscout.com/icon/free/png-512/free-dot-net-3521393-2944837.png?f=webp&w=256">
-    <img title="C#" height="40px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png">
+    <img title="C#" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png">
     <img title="TypeScript" height="40px" style="padding-right:10px" src="https://cdn-icons-png.flaticon.com/256/919/919832.png">
   </a>
 
