@@ -29,6 +29,7 @@
     <img title=".Net" height="40px" style="padding-right:10px" src="https://cdn.iconscout.com/icon/free/png-512/free-dot-net-3521393-2944837.png?f=webp&w=256">
     <img title="C#" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png">
     <img title="TypeScript" height="40px" style="padding-right:10px" src="https://cdn-icons-png.flaticon.com/256/919/919832.png">
+    <img title="Django" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/django.png">
   </a>
 
 <h2 align="center">Contact</h2>
